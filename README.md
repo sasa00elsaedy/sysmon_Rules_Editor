@@ -7,7 +7,6 @@ Sysmon Editor is a powerful tool designed to simplify and enhance the usage of *
 ## Table of Contents 📑
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Contribution](#contribution)
 - [Contact](#contact)
 
 ---
@@ -36,18 +35,6 @@ To install **Sysmon Editor**, download installer:
 https://github.com/sasa00elsaedy/sysmon_Rules_Editor/raw/refs/heads/main/sysmon_editor_installer.exe
 ```
 
-## Contribution 🤝
-
-We welcome contributions to Sysmon Editor! To contribute, please follow these steps:
-
-    Fork the repository
-    Create a new branch for your feature or bug fix
-    Commit your changes and push them to your fork
-    Submit a pull request explaining your changes
-
-Let's work together to make Sysmon Editor better! 🌟
-
----
 ## Contact 📬
 
 For any questions or feedback, feel free to reach out:
